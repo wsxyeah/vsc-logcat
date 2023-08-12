@@ -14,8 +14,16 @@
   "contributes": {
     "commands": [
       {
-        "command": "vsclogcat.helloWorld",
-        "title": "Hello World"
+        "command": "vsclogcat.startLogcat",
+        "title": "→ Start Logcat"
+      },
+      {
+        "command": "vsclogcat.stopLogcat",
+        "title": "→ Stop Logcat"
+      },
+      {
+        "command": "vsclogcat.stopAll",
+        "title": "→ Stop All Logcat"
       }
     ]
   },
