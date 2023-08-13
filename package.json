@@ -2,7 +2,7 @@
   "name": "vsclogcat",
   "displayName": "VSCLogcat",
   "description": "Logcat Viewer for VSCode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "wangshaoxing",
   "license": "MIT",
   "repository": {
