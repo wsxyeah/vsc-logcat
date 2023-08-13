@@ -9,6 +9,7 @@
     "type": "git",
     "url": "https://github.com/wsxyeah/vsc-logcat.git"
   },
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.81.0"
   },
