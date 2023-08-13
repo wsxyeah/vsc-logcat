@@ -3,6 +3,12 @@
   "displayName": "VSCLogcat",
   "description": "Logcat Viewer for VSCode",
   "version": "0.0.1",
+  "publisher": "wangshaoxing",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wsxyeah/vsc-logcat.git"
+  },
   "engines": {
     "vscode": "^1.81.0"
   },
